@@ -52,4 +52,4 @@ Sometimes we want to run our programs from a different terminal. MacOS has a ter
 
 #### Task 3: Upload your code using Github Desktop
 
-Go back to Github desktop. All of your modified files should show under the "Changes" tab. Enter a summary in the "Summary" box. It should be short, like "Finished lab0".
+Go back to Github desktop. All of your modified files should show under the "Changes" tab. Enter a summary in the "Summary" box. It should be short, like "Finished lab0". Click "Commit to main" then 
