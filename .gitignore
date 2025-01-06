@@ -1,3 +1,7 @@
+# macOS/Xcode stuff
+.DS_Store
+DerivedData
+
 # Prerequisites
 *.d
 
