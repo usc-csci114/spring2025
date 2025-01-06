@@ -40,7 +40,7 @@ Modify the C++ code to do the following:
 5. Create a variable of type **int**
 6. Read in the users favorite number.
 7. Print out the message "Great to meet you <name>! Your favorite number is <num>! That's awesome." (where <name> and <num> are replaced by the users name and favorite number).
-8. Run your program inside Xcode. There is a minimal terminal inside xcode.
+8. Run your program inside Xcode. There is a minimal terminal inside xcode so you can type the input there.
 
 #### Task 2: Run the program in a different terminal
 
@@ -52,4 +52,6 @@ Sometimes we want to run our programs from a different terminal. MacOS has a ter
 
 #### Task 3: Upload your code using Github Desktop
 
-Go back to Github desktop. All of your modified files should show under the "Changes" tab. Enter a summary in the "Summary" box. It should be short, like "Finished lab0". Click "Commit to main" then 
+Go back to Github desktop. All of your modified files should show under the "Changes" tab. Enter a summary in the "Summary" box. It should be short, like "Finished lab0". Click "Commit to main" then "Push Origin"
+
+That's it, you've completed lab 0.
